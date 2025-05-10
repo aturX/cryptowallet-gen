@@ -1,49 +1,15 @@
 {
-  "name": "@yerofey/cryptowallet-cli",
-  "version": "1.41.1",
+  "name": "@aturx/cryptowallet-gen",
+  "version": "1.42.1",
   "description": "Crypto wallet generator CLI tool",
   "type": "module",
-  "homepage": "https://github.com/yerofey/cryptowallet-cli",
+  "homepage": "https://github.com/aturx/cryptowallet-gen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yerofey/cryptowallet-cli.git"
+    "url": "git+https://github.com/aturx/cryptowallet-gen.git"
   },
-  "author": "Yerofey S. <pm@yerofey.dev> (https://github.com/yerofey)",
+  "author": "aturx <0xaturx@gmail.com> (https://github.com/aturx)",
   "license": "MIT",
-  "funding": [
-    {
-      "type": "paypal",
-      "url": "https://paypal.me/Jerofej"
-    },
-    {
-      "type": "ko-fi",
-      "url": "https://ko-fi.com/yerofey"
-    },
-    {
-      "type": "bitcoin",
-      "url": "bitcoin:bc1qcwamquntxshqsjcra6vryftrfd9z57j02g3ywq"
-    },
-    {
-      "type": "ethereum",
-      "url": "ethereum:0xe3e3ed78d9f8A935a9a0fCE2a7305F2f5DBabAD8"
-    },
-    {
-      "type": "solana",
-      "address": "CWsbNQRxNzAasLd2zfwkEkbBZXKxfoxva14pe8wawUju"
-    },
-    {
-      "type": "trx",
-      "address": "TCW9eaRWjpivZvnZ5DwgbWxPRpoZNWbuPe"
-    },
-    {
-      "type": "ton",
-      "url": "ton://transfer/UQCWDwqtvC_jml2hSf8laNQu4chYVCbHBpkbKbyDdxzM7Ma0"
-    },
-    {
-      "type": "dogecoin",
-      "url": "dogecoin:DMAkWQKx1H6ESG3beDBssn5mAAZcwkrYVh"
-    }
-  ],
   "bin": {
     "cw": "cli.js"
   },
